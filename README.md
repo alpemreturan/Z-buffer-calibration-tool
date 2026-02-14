@@ -1,5 +1,5 @@
 # 🎯 Z-Buffer Calibration TOOL
-### **The Ultimate Visualizer & Debugger for ReShade Developers**
+### **A precision tool for calibrating game engine depth buffers to ensure pixel-perfect masking for post-processing shaders, built for ReShade FX.**
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) 
 ![ReShade: Compatible](https://img.shields.io/badge/ReShade-4.0+-green.svg)
